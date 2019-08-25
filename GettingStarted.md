@@ -51,7 +51,7 @@ username@COMPUTER ~$
 ```
 As a quick orientation, the `~` symbol means "home directory" and indicates where you currently are in the file system. The `$` symbol is the "bash prompt" and indicates that you are able to type a command to run, then hit enter to run it. Be sure to browse the many resources for learning the bash shell that are listed in the README of this `info` repository. For a quick introduction, see also the [Linux/Bash Overview Slides](http://slides.com/profdressel/linux-bash-overview). Chapter 1 of your textbook covers the essentials of using the bash shell as well.
 
-### Creating CoCalc SSH Keys
+### Creating SSH Keys
 
 To connect to GitHub, we first need to create `ssh` keys for your computer. You can think of these like keys to a house that allow people to access it. Instead, they are keys for your computer that allow people to remotely log into it using the **s**ecure **sh**ell (or ssh) protocol. There are two kinds of ssh key: public and private. A "public" key acts like a lock that you give to someone else, while its corresponding "private" key acts as a physical key used to unlock the lock. For example, if a computer knows your public key, then you can use your private key to access that computer. 
 
