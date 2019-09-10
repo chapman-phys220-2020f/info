@@ -33,7 +33,7 @@ Check back throughout the semester for updates to these slides, as they are live
  1. [Linux/Bash Overview](http://slides.com/profdressel/linux-bash-overview)
  1. [Vim Overview](http://slides.com/profdressel/vim-overview)
  1. [Git Overview](http://slides.com/profdressel/git-overview)
- 1. [IPython Overview](http://slides.com/profdressel/jupyter-overview)
+ 1. [IPython Overview](http://slides.com/profdressel/ipython-overview)
  1. [Python Objects Overview](http://slides.com/profdressel/python-objects-overview)
  1. [Numpy/Pandas Overview](https://slides.com/profdressel/numpy-and-pandas-overview)
 
