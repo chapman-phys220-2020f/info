@@ -1,14 +1,12 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 ###
 # Template Notes (remove this comment block from your own scripts/modules):
 #
 # The top line informs UNIX/LINUX that the current file should be executed
-# as a python3 script. Unlike windows, which uses extensions like .doc or
+# as a python script. Unlike windows, which uses extensions like .doc or
 # .pdf, file types are determined by their contents in Linux.
-#
-# In this course, we assume python3, rather than python2.
 #
 # The second top line informs python3 to use UTF-8 character encoding, which
 # enables unicode characters as default instead of ASCII.
