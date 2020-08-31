@@ -1,34 +1,36 @@
 # PHYS220 / MATH220 Course Information
 
- - [Course Syllabus](phys220-syllabus-2019f.pdf)
- 
-Welcome to the `PHYS220/MATH220` course information `README` file!  Refer to this information throughout the semester for helpful tutorials, references, and tips.  Please read the [Getting Started](GettingStarted.md) guide for orientation, including how to create accounts and manage the homework/classwork work flow.
+ - [Course Syllabus](PHYS220-2020f-Syllabus.pdf)
+
+Welcome to the `PHYS 220/MATH 220` course information `README` file!  Refer to this information throughout the semester for helpful tutorials, references, and tips.  Please read the [Getting Started](GettingStarted.md) guide for orientation, including how to create accounts and manage the homework/classwork work flow.
 
 ## Getting Started
 
  - [Getting Started Guide : Click here first.](GettingStarted.md)
  - [Textbook : Effective Computation in Physics](http://physics.codes) <br/>
- Official course textbook, to be supplemented with free online resources below. Be sure to read Chapters 1, 15, and 16 first, as they cover basic usage of bash, git, and GitHub.
+ Official course textbook, to be supplemented with free online resources below. Be sure to read Chapters 1, 15, and 16 first, as they cover basic usage of `bash`, `git`, and GitHub.
 
 ## Primary Course Links (Try here first)
 
  - [Anaconda Python](https://www.anaconda.com/download) <br/>
- Official python distribution suitable for scientfic computing and data science. Get this to complete both classwork and homework on your own laptop.
- - [Git for Windows](https://git-scm.com/download/win)<br/>
+ Official python distribution suitable for scientific computing and data science. You will use this to complete both classwork and homework on your own laptop.
+ - [Git for Windows](https://git-scm.com/download)<br/>
  If you use Windows, you also need this to do course work on your own laptop.
- - [Slack (`scststudents`)](https://scststudents.slack.com) (Channel `#phys220-2019f`) <br/>
- Professional communication tool - industry standard chat application that we will use for the course.
+ - [MS Teams](https://teams.microsoft.com) (Team `phys220-2020f`) <br/>
+ Professional communication tool - industry competitive chat application that we will use for the course.
  - [Overleaf.com](https://www.overleaf.com) <br/>
- Online collaborative LaTeX editor with many convenient templates.
- 
+ Online collaborative $\LaTeX$ editor with many convenient templates.
+
 ## Free Perks
 
  - [GitHub Developer Pack](https://education.github.com/pack) <br/>
    Free stuff just for being a student - peruse at your leisure.
 
-## Secondary Resources (Read as needed)
+## Secondary Resources
 
-### Supplementary Slides 
+Note that there is a large amount of content linked below, as well as in the [Cheatsheets](Cheatsheets), [Example](Example), and [Templates](Templates) folders in this repository. There is also a (hidden) configuration file `.vimrc` for `vim` to give it better defaults for editing Python code. Do not panic or attempt to absorb everything here all at once; these are intended as references to aid you through the entire course. Read as needed/desired!
+
+### Supplementary Slides
 Check back throughout the semester for updates to these slides, as they are live documents that are continually being improved.
  1. [Linux/Bash Overview](http://slides.com/profdressel/linux-bash-overview)
  1. [Vim Overview](http://slides.com/profdressel/vim-overview)
@@ -48,7 +50,7 @@ Check back throughout the semester for updates to these slides, as they are live
  Chapman University CPSC Coding Standards (*use for your code*).
  - [Python Style Guide (Official Google)](https://google.github.io/styleguide/pyguide.html) <br/>
  Official Google style guide for Python (*use for your code*).
- 
+
 ### Linux/Bash Resources:
  - Chapter 1 of Textbook
  - [Introductory Linux/Bash Tutorial](http://linuxcommand.org/lc3_learning_the_shell.php) <br/>
@@ -59,7 +61,7 @@ Check back throughout the semester for updates to these slides, as they are live
  Introductory scripting with `bash`.
  - [Shell Scripting Tutorial](http://www.shellscript.sh/) <br/>
  Intermediate scripting with `bash`.
- 
+
 ### Git Resources
  - Chapter 15 of Textbook
  - [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html) <br/>
@@ -70,7 +72,7 @@ Check back throughout the semester for updates to these slides, as they are live
  Official `git` tutorial.
  - [Git User Manual](http://git-scm.com/docs/user-manual.html)<br/>
  Official `git` manual.
- 
+
 ### GitHub Resources
  - Chapter 16 of Textbook
  - [GitHub Hello World](https://guides.github.com/activities/hello-world/) <br/>
@@ -79,7 +81,7 @@ Check back throughout the semester for updates to these slides, as they are live
  Understand the flow of how GitHub works for source code management.
  - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) <br/>
  Learn concise syntax for writing beautifully formatted `html` easily in README files and Jupyter notebooks.
- 
+
 ### Basic Python Resources:
  - Chapters 2,3,4,5,6 of Textbook
  - [Interactive Python Tutorial](http://www.learnpython.org/) <br/>
@@ -108,7 +110,7 @@ Check back throughout the semester for updates to these slides, as they are live
  Alternative concise summary of key commands.
  - [VIM for Python](http://www.fullstackpython.com/vim.html) <br/>
  Recommended `vim` configuration for editing `python` code.
- 
+
 ### LaTeX Resources
  - Chapter 20 of Textbook
  - [LaTeX Tutorial](https://www.latex-tutorial.com) <br/>
@@ -129,7 +131,7 @@ Check back throughout the semester for updates to these slides, as they are live
  Comparison of scientific `python` and `MATLAB`.
  - [MATLAB-Python Dictionary](http://mathesaurus.sourceforge.net/matlab-numpy.html) <br/>
  Conversion chart between scientific `python` and `MATLAB`.
- 
+
 ### Julia Resources:
  - [Learning Julia](https://lectures.quantecon.org/jl/learning_julia.html) <br/>
  Excellent short introduction to `julia` for scientific programming.
@@ -141,4 +143,3 @@ Check back throughout the semester for updates to these slides, as they are live
  Concise summary of basic syntax.
  - [MATLAB-Python-Julia-R Comparison](http://sebastianraschka.com/Articles/2014_matrix_cheatsheet.html) <br/>
  Comparison of the most common data science programming languages.
- 
